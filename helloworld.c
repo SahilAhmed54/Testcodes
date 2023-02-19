@@ -6,6 +6,4 @@ int main()
     int y=15;
     printf("sum of x and y is %u ",x+y);
     printf(" Hello world again 2 4th working fine");
-
-    printf("editing from phone");
 }
